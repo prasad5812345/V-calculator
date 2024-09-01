@@ -30,4 +30,4 @@ Click the "=" button to evaluate the current mathematical expression.<br>
 <b>Button Layout:</b> Adjust the layout of buttons by modifying the grid-template-rows and grid-template-columns properties in the CSS.<br>
 <h2><b>Output:</b></h2>
 <h3>Screenshot</h3>
-![]()
+![](https://github.com/prasad5812345/V-calculator/blob/main/output%20cal.png)
