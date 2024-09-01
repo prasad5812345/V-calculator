@@ -15,7 +15,7 @@ Vivid Calculator is a sleek and modern web-based calculator designed for clear, 
 
 <h2>Navigate to the project directory:</h2>
 
-[open calculator](https://github.com/prasad5812345/V-calculator/blob/main/cal.html)
+[open cal.html](https://github.com/prasad5812345/V-calculator/blob/main/cal.html)
 
 Open the cal.html file in your web browser to start using the Vivid Calculator.<br>
 
